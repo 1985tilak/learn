@@ -221,11 +221,6 @@ def find_kth_from_end(ll, k):
         fast = fast.next 
     return slow
 
-
-
-
-
-
 my_linked_list = LinkedList(1)
 my_linked_list.append(1)
 my_linked_list.append(1)
